@@ -1,0 +1,137 @@
+.body{
+    background-color: black;
+}
+
+.navigation {
+    overflow: hidden;
+    background-color: #cdf8fa;
+    top: 0;
+    position: sticky;
+    cursor: pointer;
+  }
+
+  .navigation a {
+    float: left;
+    text-align: center;
+    align-items: center;
+    color: gray;
+    text-align: center;
+    padding: 13px 17px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+
+  .navigation a:hover{
+      background-color: black;
+  }
+
+  .slideshow{
+      width: 100%;
+  }
+
+  .secImage{
+      background-color: blanchedalmond;
+      align-items: center;
+  }
+
+  .intro{
+      text-align: center;
+      align-items: center;
+      background-color: #cdf8fa;
+  }
+
+  .suicide{
+      display: flex;
+      flex-direction: row;
+  }
+
+  .suicideOfFarmers{
+      max-width: 1200px;
+      margin: auto;
+      overflow: auto;
+      display: flex;
+
+  }
+
+  .images{
+      margin: 5px;
+      border: 1px solid #ccc;
+      float: left;
+      width: 390px;
+
+  }
+
+  .images img{
+      width: 100%;
+      height:auto;
+
+  }
+
+  .desc{
+      padding: 15px;
+      text-align: center;
+      color: #cdf8fa;
+
+  }
+
+  .beforeShop{
+      text-align: center;
+      color: blanchedalmond
+  }
+
+  .shop{
+     align-items: center;
+     text-align: center;
+  }
+
+  .shopHeading{
+      color: blanchedalmond;
+  }
+
+  .shopPageGo{
+      color: #cdf8fa;
+      font-size: x-large;
+      text-align: center;
+
+  }
+
+  .introExplanation{
+      font-weight: bolder;
+  }
+
+  .farmerHeading{
+      text-align: center;
+      color: black;
+  }
+
+  .heading{
+      text-align: center;
+      color: blanchedalmond;
+  }
+
+  .shopping{
+    max-width: 1200px;
+    margin: auto;
+    overflow: auto;
+    display: flex;
+  }
+
+  .javascriptpara{
+      text-align: center;
+      font-size: x-large;
+      font-weight: 900;
+  }
+
+  .javaButton{
+      align-items: center;
+      text-align: center;
+      float: center;
+      padding: 15px 32px;
+      margin: 4px 2px;
+      background-color: black;
+    color: #cdf8fa;
+    margin-left: 650px;
+
+
+  }
+
